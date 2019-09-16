@@ -1,0 +1,11 @@
+{
+    "app": {
+        "baseUri": "http://07144a1a.ngrok.io",
+        "appId": "fa37d5ca-d0c7-4de2-960f-380f32d04f33",
+        "instrumentationKey": "APPINSIGHTS_INSTRUMENTATIONKEY"
+    },
+    "bot": {
+        "appId": "fa37d5ca-d0c7-4de2-960f-380f32d04f33",
+        "appPassword": "F06yesDMaSLBBQTD?4xbx6@ZRO/Di-2H"
+    }
+}
